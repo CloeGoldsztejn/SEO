@@ -2,6 +2,8 @@
 bin/
 bin-debug/
 bin-release/
+obj/
+*.suo
 
 # Other files and folders
 .settings/

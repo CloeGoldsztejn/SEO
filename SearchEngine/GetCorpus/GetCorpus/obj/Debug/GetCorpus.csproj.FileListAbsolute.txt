@@ -1,6 +1,0 @@
-C:\Users\Cloe\Downloads\SearchEngine\GetCorpus\GetCorpus\bin\Debug\GetCorpus.exe.config
-C:\Users\Cloe\Downloads\SearchEngine\GetCorpus\GetCorpus\bin\Debug\GetCorpus.exe
-C:\Users\Cloe\Downloads\SearchEngine\GetCorpus\GetCorpus\bin\Debug\GetCorpus.pdb
-C:\Users\Cloe\Downloads\SearchEngine\GetCorpus\GetCorpus\obj\Debug\GetCorpus.csprojResolveAssemblyReference.cache
-C:\Users\Cloe\Downloads\SearchEngine\GetCorpus\GetCorpus\obj\Debug\GetCorpus.exe
-C:\Users\Cloe\Downloads\SearchEngine\GetCorpus\GetCorpus\obj\Debug\GetCorpus.pdb
